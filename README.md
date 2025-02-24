@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋, soy Nicolas Fernando Espitia Castillo</h1>
-<h3 align="center">Tengo facilidad al momento de trabajar en equipo y tengo la habilidad para comunicarme con las personas</h3>
+<h3 align="center"> Me considero una persona con facilidad para trabajar en equipo y para comunicarme de manera efectiva con las personas. Me gusta colaborar con otros para alcanzar objetivos comunes y creo firmemente en la importancia de la comunicación clara y abierta para lograr buenos resultados.
+<br>  
+<br>
+Actualmente, estoy estudiando programación y he aprendido a utilizar Python, HTML, CSS y JavaScript. Además, he adquirido conocimientos sobre la modalidad de trabajo Scrum, lo que me ha permitido desarrollar habilidades para gestionar proyectos de manera ágil y eficiente. También manejo con facilidad GitHub, lo que me permite colaborar de manera efectiva en proyectos de desarrollo y mantener un control adecuado sobre el código.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasfernandoespitiacastillo&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasfernandoespitiacastillo" /> </p>
 
@@ -7,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Curso de programación, mecánica de motos**
+- 🌱 Actualmente estoy aprendiendo **Curso de programación**
 
 - 📫 Cómo contactarme **nicoespitia30@gmail.com**
 
